@@ -1,4 +1,4 @@
-###Exemplo de site responsivo
+### Exemplo de site responsivo
 
 _Todo o site foi criado com a técnica Flexbox_
 
